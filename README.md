@@ -19,4 +19,6 @@ Spell Mod that allows you to make the AI brain dead until they take damage.
 Spell Mod that allows you to make ALL AI brain dead forever.
 ![Example_Sharingan_OP](https://staticdelivery.nexusmods.com/mods/2673/images/9641/9641-1708805988-1120355940.png)
 
-[![Watch the video](https://img.youtube.com/vi/kYdD_k2gga8/0.jpg)](https://www.youtube.com/watch?v=kYdD_k2gga8)
+[YouTube Link](https://www.youtube.com/watch?v=kYdD_k2gga8)
+
+https://github.com/user-attachments/assets/0fc4b14f-4874-4a2b-9a48-899764c894b5
