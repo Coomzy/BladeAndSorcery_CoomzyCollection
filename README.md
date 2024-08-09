@@ -1,5 +1,7 @@
 # BladeAndSorcery_CoomzyCollection
-Source code for my Blade and Sorcery mod projects
+Source code for my Blade and Sorcery mod projects.
+
+I'm done with them so do what you want with them :)
 
 # Health Regen - [Nexus](https://www.nexusmods.com/bladeandsorcery/mods/9617) - [Modio](https://mod.io/g/blade-and-sorcery/m/health-regen) 
 Regenerates the players health overtime, with config options.
