@@ -18,3 +18,5 @@ Spell Mod that allows you to make the AI brain dead until they take damage.
 # Sharingan - Infinite Tsukuyomi - [Nexus](https://www.nexusmods.com/bladeandsorcery/mods/9641/) - [Modio](https://mod.io/g/blade-and-sorcery/m/sharingan-infinite-tsukuyomi) 
 Spell Mod that allows you to make ALL AI brain dead forever.
 ![Example_Sharingan_OP](https://staticdelivery.nexusmods.com/mods/2673/images/9641/9641-1708805988-1120355940.png)
+
+[![Watch the video](https://img.youtube.com/vi/kYdD_k2gga8/0.jpg)](https://www.youtube.com/watch?v=kYdD_k2gga8)
