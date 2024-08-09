@@ -5,3 +5,5 @@ This project was in the middle of being updated to 1.0 but I gave up trying to c
 
 When I tested this on Quest it crashed galore, good luck lol
 If you do want to make it work on Quest, make sure you uncomment the Quest verion of "public static string folder" and comment out the PC line
+
+![Example_Sharingan](https://staticdelivery.nexusmods.com/mods/2673/images/9640/9640-1708793290-1889512207.png)
