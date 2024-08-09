@@ -1,0 +1,17 @@
+{
+  "$type": "ThunderRoad.ContainerData, ThunderRoad",
+  "id": "SandboxBody",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 1,
+  "displayName": "Sandbox Player",
+  "description": null,
+  "contents": [],
+  "containerContents": [
+    {
+      "$type": "ThunderRoad.SpellContent, ThunderRoad",
+      "referenceID": "Sharingan"
+    }
+  ],
+  "groupPath": "Player"
+}
